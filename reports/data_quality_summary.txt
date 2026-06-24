@@ -1,0 +1,16 @@
+DATA QUALITY SUMMARY
+
+Datasets Loaded: 10
+
+Missing Values: 0
+
+Fund Houses:
+HDFC
+SBI
+ICICI
+Nippon
+Axis
+Kotak
+
+Conclusion:
+Data ingestion completed successfully.
