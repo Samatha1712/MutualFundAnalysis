@@ -22,9 +22,6 @@ for name, code in schemes.items():
 
     df["scheme_code"] = code
 
-    df.to_csv(
-        f"data/raw/{name}.csv",
-        index=False
-    )
+    df.to_csv(f"data/raw/{name}.csv", index=False)
 
     print(f"{name} saved")
