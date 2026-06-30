@@ -303,6 +303,26 @@ plt.close()
 
 print("Benchmark Comparison Chart Saved")
 
-print("\nPerformance Analytics Completed Successfully")
-print("="*60)
+
+
+print("\n" + "=" * 60)
+print("DAY 4 - FUND PERFORMANCE ANALYTICS COMPLETED SUCCESSFULLY")
+print("=" * 60)
+
+print("\nGenerated Files:")
+
+print("✓ daily_returns.csv")
+print("✓ cagr.csv")
+print("✓ sharpe_ratio.csv")
+print("✓ sortino_ratio.csv")
+print("✓ maximum_drawdown.csv")
+print("✓ alpha_beta.csv")
+print("✓ fund_scorecard.csv")
+print("✓ benchmark_comparison.png")
+
+print("\nReports Generated:")
+print("✓ notebooks/Performance_Analytics.ipynb")
+print("✓ reports/performance_summary.md")
+
+
 
